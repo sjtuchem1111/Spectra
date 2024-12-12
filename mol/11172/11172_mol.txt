@@ -1,0 +1,1 @@
+NC(=O)c1[nH]c2cnccc2c1-c1ccc(NC(=O)Nc2ccc(F)cc2)cc1

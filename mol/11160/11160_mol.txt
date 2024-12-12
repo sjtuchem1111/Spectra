@@ -1,0 +1,1 @@
+CC(C)C(O)(c1ccc(-c2ccc(F)cc2)cc1)c1c[nH]cn1

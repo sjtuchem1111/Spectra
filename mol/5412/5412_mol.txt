@@ -1,0 +1,1 @@
+O=C(c1nc(-c2ccccc2)nc2ccccc12)N1CCC(CCO)CC1
